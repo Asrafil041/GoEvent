@@ -1,42 +1,39 @@
 GoEvent
 
-A.	Latar Belakang
-Di era digital, banyak kegiatan seperti seminar, workshop, lomba, pelatihan, hingga acara sosial yang sering terlambat diketahui masyarakat karena promosi yang masih terbatas. Informasi biasanya hanya tersebar lewat poster, grup WhatsApp, atau media sosial tertentu, sehingga tidak semua orang mendapatkan akses dengan mudah.
-Selain itu, anak muda dan komunitas sering kesulitan menemukan event yang sesuai minat mereka, padahal banyak peluang pengembangan diri dan jejaring sosial yang bisa didapatkan. Oleh karena itu, dibutuhkan aplikasi mobile sederhana namun inovatif yang dapat membantu pengguna menemukan, menyaring, dan mengikuti event secara lebih praktis.
-B.	Deskripsi Singkat
-GoEvent adalah aplikasi mobile yang dirancang untuk mempermudah pencarian, pengelolaan, dan pendaftaran event di sekitar pengguna. Dengan fitur pencarian berdasarkan lokasi, kategori, serta minat pengguna, aplikasi ini menjadi solusi bagi mereka yang ingin aktif mengikuti kegiatan edukatif, sosial, maupun hiburan. EventHub juga dilengkapi notifikasi pintar yang mengingatkan pengguna tentang event yang akan datang, sehingga tidak ada lagi event menarik yang terlewat.
-C.	Tujuan Pembuatan Aplikasi
-1.	Menyediakan platform yang mempermudah pencarian dan penemuan event lokal.
-2.	Membantu pengguna menemukan event sesuai minat dengan fitur filter dan rekomendasi.
-3.	Mendukung komunitas, kampus, dan UMKM dalam mempromosikan kegiatan mereka secara lebih luas.
+A. Latar Belakang
+Di era digital, informasi mengenai seminar, workshop, pelatihan, lomba, hingga acara sosial sering kali tidak sampai ke masyarakat luas secara tepat waktu. Promosi masih terbatas melalui poster, grup WhatsApp, atau media sosial tertentu sehingga tidak semua orang bisa mengakses informasi dengan mudah. Hal ini membuat banyak orang, khususnya anak muda dan komunitas, melewatkan peluang untuk mengembangkan diri dan memperluas jejaring.
+Oleh karena itu, diperlukan sebuah aplikasi mobile sederhana namun efektif yang berfokus pada kemudahan mencari dan menemukan event. Dengan antarmuka yang simpel dan fitur yang relevan, aplikasi ini membantu pengguna menjelajahi event di sekitar mereka, menandai event favorit, serta mengunggah informasi event untuk berbagi dengan komunitas lain.
 
-Fitur Utama
-●	Pencarian event dalam filter berdasarkan lokasi, kategori, dan waktu.
-●	Notifikasi pintar untuk mengingatkan pengguna tentang event yang akan datang.
-●	Peta event menampilkan event terdekat di sekitar pengguna.
-●	Registrasi online bagi pengguna dapat mendaftar langsung melalui aplikasi.
-●	Promo UMKM & sponsor sebagai wadah bagi UMKM untuk berpartisipasi dalam event.
+B. Deskripsi Singkat
+GoEvent adalah aplikasi mobile yang dirancang untuk mempermudah pengguna dalam menemukan event yang sesuai dengan minat mereka. Aplikasi ini menghadirkan fitur utama berupa pencarian event berdasarkan kategori dan lokasi, serta halaman Home untuk menampilkan daftar event terbaru. Pengguna juga bisa menyimpan event favorit agar tidak terlewat, dan mengelola informasi diri melalui profil. Selain itu, tersedia fitur Upload Event yang memungkinkan komunitas, kampus, maupun UMKM membagikan kegiatan mereka secara lebih luas.
+Keunggulan GoEvent terletak pada kemudahan penggunaan dan penyajian event yang terorganisir, sehingga meskipun fiturnya sederhana, aplikasi ini mampu menjadi solusi praktis bagi siapa saja yang ingin tetap terhubung dengan kegiatan edukatif, sosial, maupun hiburan.
 
+C. Tujuan Pembuatan Aplikasi
+Menyediakan platform sederhana yang memudahkan pencarian event lokal.
+Membantu pengguna menemukan event sesuai minat melalui fitur pencarian dan favorit.
+Menjadi wadah komunitas, kampus, dan UMKM untuk mempromosikan event mereka secara efektif.
+Memberikan pengalaman pengguna yang simpel namun efisien dalam menemukan informasi event.
 
-TIMELINE
-
-
-Minggu 1-2
+D. Timeline Pengembangan
+Minggu
+Kegiatan
+1–2
 Analisis kebutuhan pengguna, studi literatur aplikasi serupa, menentukan fitur inti
-Minggu 3-4
-Perancangan sistem flow aplikasi, desain UI awal, rancangan database
-Minggu 5-7
-Implementasi dasar: halaman utama (daftar event), fitur tambah event, database
-Minggu 8-9
-Implementasi fitur notifikasi & peta event, uji coba awal
-Minggu 10-11
-Implementasi fitur registrasi event & filter pencarian
-Minggu 12-13
-Pengujian internal & eksternal, debugging, penyempurnaan UI
-Minggu 14
-Dokumentasi teknis & pengguna, screenshot aplikasi, penyusunan laporan awal
-Minggu 15
-Finalisasi laporan, pembuatan slide presentasi, latihan presentasi & simulasi demo
-Minggu 16
-Presentasi proyek akhir
+3–4
+Perancangan sistem: flow aplikasi, desain UI awal, dan rancangan database
+5–6
+Implementasi halaman Home (daftar event)
+7–8
+Implementasi fitur Upload Event
+9–10
+Implementasi fitur Favorit
+11–12
+Implementasi halaman Profil
+13–14
+Pengujian internal & eksternal, debugging, dan penyempurnaan UI
+15
+Dokumentasi teknis & pengguna, screenshot aplikasi, penyusunan laporan
+16
+Finalisasi laporan, pembuatan slide presentasi, latihan & simulasi demo proyek akhir
+
 
