@@ -1,19 +1,25 @@
-Latar Belakang
+GOEVENT
+
+A. Latar Belakang
 Di era digital, informasi mengenai seminar, workshop, pelatihan, lomba, hingga acara sosial sering kali tidak sampai ke masyarakat luas secara tepat waktu. Promosi masih terbatas melalui poster, grup WhatsApp, atau media sosial tertentu sehingga tidak semua orang bisa mengakses informasi dengan mudah. Hal ini membuat banyak orang, khususnya anak muda dan komunitas, melewatkan peluang untuk mengembangkan diri dan memperluas jejaring.
 Oleh karena itu, diperlukan sebuah aplikasi mobile sederhana namun efektif yang berfokus pada kemudahan mencari dan menemukan event. Dengan antarmuka yang simpel dan fitur yang relevan, aplikasi ini membantu pengguna menjelajahi event di sekitar mereka, menandai event favorit, serta mengunggah informasi event untuk berbagi dengan komunitas lain.
-Deskripsi Singkat
+
+B. Deskripsi Singkat
 GoEvent adalah aplikasi mobile yang dirancang untuk mempermudah pengguna dalam menemukan event yang sesuai dengan minat mereka. Aplikasi ini menghadirkan fitur utama berupa pencarian event berdasarkan kategori dan lokasi, serta halaman Home untuk menampilkan daftar event terbaru. Pengguna juga bisa menyimpan event favorit agar tidak terlewat, dan mengelola informasi diri melalui profil. Selain itu, tersedia fitur Upload Event yang memungkinkan komunitas, kampus, maupun UMKM membagikan kegiatan mereka secara lebih luas.
 Keunggulan GoEvent terletak pada kemudahan penggunaan dan penyajian event yang terorganisir, sehingga meskipun fiturnya sederhana, aplikasi ini mampu menjadi solusi praktis bagi siapa saja yang ingin tetap terhubung dengan kegiatan edukatif, sosial, maupun hiburan.
-Tujuan Pembuatan Aplikasi
+
+C. Tujuan Pembuatan Aplikasi
 Menyediakan platform sederhana yang memudahkan pencarian event lokal.
 Membantu pengguna menemukan event sesuai minat melalui fitur pencarian dan favorit.
 Menjadi wadah komunitas, kampus, dan UMKM untuk mempromosikan event mereka secara efektif.
 Memberikan pengalaman pengguna yang simpel namun efisien dalam menemukan informasi event.
+
 D. Fitur Utama
 Home – Menampilkan daftar event terbaru dan populer.
 Upload Event – Memungkinkan komunitas atau individu mengunggah event mereka.
 Favorit – Pengguna dapat menyimpan event pilihan untuk diakses kembali.
 Profil – Menyediakan halaman profil pengguna untuk mengelola data pribadi dan event yang diunggah
+
 E. Timeline Pengembangan
 Minggu
 Kegiatan
@@ -35,4 +41,5 @@ Pengujian internal & eksternal, debugging, dan penyempurnaan UI
 Dokumentasi teknis & pengguna, screenshot aplikasi, penyusunan laporan
 16
 Finalisasi laporan, pembuatan slide presentasi, latihan & simulasi demo proyek akhir
+
 
